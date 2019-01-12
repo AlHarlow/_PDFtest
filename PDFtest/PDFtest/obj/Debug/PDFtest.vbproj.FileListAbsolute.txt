@@ -1,0 +1,10 @@
+c:\users\alhar\onedrive\documents\visual studio 2015\Projects\PDFtest\PDFtest\bin\Debug\PDFtest.exe.config
+c:\users\alhar\onedrive\documents\visual studio 2015\Projects\PDFtest\PDFtest\bin\Debug\PDFtest.exe
+c:\users\alhar\onedrive\documents\visual studio 2015\Projects\PDFtest\PDFtest\bin\Debug\PDFtest.pdb
+c:\users\alhar\onedrive\documents\visual studio 2015\Projects\PDFtest\PDFtest\bin\Debug\PDFtest.xml
+c:\users\alhar\onedrive\documents\visual studio 2015\Projects\PDFtest\PDFtest\obj\Debug\PDFtest.vbprojResolveAssemblyReference.cache
+c:\users\alhar\onedrive\documents\visual studio 2015\Projects\PDFtest\PDFtest\obj\Debug\PDFtest.Resources.resources
+c:\users\alhar\onedrive\documents\visual studio 2015\Projects\PDFtest\PDFtest\obj\Debug\PDFtest.vbproj.GenerateResource.Cache
+c:\users\alhar\onedrive\documents\visual studio 2015\Projects\PDFtest\PDFtest\obj\Debug\PDFtest.exe
+c:\users\alhar\onedrive\documents\visual studio 2015\Projects\PDFtest\PDFtest\obj\Debug\PDFtest.xml
+c:\users\alhar\onedrive\documents\visual studio 2015\Projects\PDFtest\PDFtest\obj\Debug\PDFtest.pdb
